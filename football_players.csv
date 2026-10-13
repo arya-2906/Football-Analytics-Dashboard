@@ -1,0 +1,361 @@
+player_id,player_name,team,position,season,age,nationality,appearances,minutes_played,goals,assists,shots,shots_on_target,passes,pass_accuracy,tackles,interceptions,yellow_cards,red_cards,clean_sheets,rating
+1,James Okafor,FC Northgate,GK,2021-22,18,English,19,1520,1,0,1,1,917,76.3,4,2,4,1,10,6.65
+1,James Okafor,FC Northgate,GK,2022-23,19,English,37,3145,0,0,1,0,938,69.4,2,4,4,1,9,6.27
+1,James Okafor,FC Northgate,GK,2023-24,20,English,16,960,0,0,1,0,802,74.9,3,4,1,1,5,6.74
+2,Carlos Kovač,Riverside United,DEF,2021-22,28,Spanish,25,1750,0,0,2,1,619,75.7,53,22,3,2,1,6.64
+2,Carlos Kovač,Riverside United,DEF,2022-23,29,Spanish,7,434,1,4,1,1,848,74.4,26,26,5,2,5,6.82
+2,Carlos Kovač,Riverside United,DEF,2023-24,30,Spanish,9,693,2,0,6,2,1072,83.0,44,37,2,1,2,6.06
+3,Marco Ibarra,Eastbrook City,MID,2021-22,26,French,37,2849,0,9,28,19,597,83.6,32,27,8,1,1,6.01
+3,Marco Ibarra,Eastbrook City,MID,2022-23,27,French,22,1628,6,3,26,12,772,87.3,26,14,3,1,0,6.41
+3,Marco Ibarra,Eastbrook City,MID,2023-24,28,French,8,544,6,13,31,11,700,76.1,17,11,6,1,0,7.47
+4,Luca Blake,West Hollow FC,FWD,2021-22,23,German,36,2484,20,7,58,23,669,76.2,6,0,11,2,0,8.06
+4,Luca Blake,West Hollow FC,FWD,2022-23,24,German,32,2752,13,6,80,49,718,79.5,10,11,4,0,0,5.71
+4,Luca Blake,West Hollow FC,FWD,2023-24,25,German,6,378,24,4,54,29,579,69.5,11,3,5,1,0,7.07
+5,André Williams,Southport Athletic,GK,2021-22,23,Brazilian,10,660,0,1,0,0,631,64.7,0,2,0,2,2,6.82
+5,André Williams,Southport Athletic,GK,2022-23,24,Brazilian,19,1197,0,0,1,0,908,80.0,2,2,5,0,8,6.94
+5,André Williams,Southport Athletic,GK,2023-24,25,Brazilian,32,2016,0,0,4,2,629,70.3,0,2,10,0,12,6.22
+6,Yusuf Dupont,Valley Rangers,DEF,2021-22,29,Argentine,13,1079,0,2,2,1,1242,74.8,31,24,11,2,0,8.5
+6,Yusuf Dupont,Valley Rangers,DEF,2022-23,30,Argentine,13,871,0,6,14,5,726,80.0,57,17,11,0,6,7.15
+6,Yusuf Dupont,Valley Rangers,DEF,2023-24,31,Argentine,10,680,2,0,4,2,846,74.7,45,33,9,1,5,6.84
+7,Kwame Ferreira,Ironbridge Town,MID,2021-22,18,Portuguese,29,2494,2,7,29,12,1115,83.9,19,8,1,2,1,7.18
+7,Kwame Ferreira,Ironbridge Town,MID,2022-23,19,Portuguese,27,1674,9,8,19,12,853,82.3,23,14,9,1,1,7.98
+7,Kwame Ferreira,Ironbridge Town,MID,2023-24,20,Portuguese,32,2336,4,7,33,12,449,83.6,39,6,6,1,1,6.75
+8,Tomás Mensah,Crestwood FC,FWD,2021-22,27,Italian,11,880,12,10,69,34,1035,76.2,17,7,2,2,0,6.85
+8,Tomás Mensah,Crestwood FC,FWD,2022-23,28,Italian,7,476,20,0,72,46,814,79.9,12,12,6,0,0,6.75
+8,Tomás Mensah,Crestwood FC,FWD,2023-24,29,Italian,36,3168,11,11,70,43,597,74.2,2,2,6,1,0,7.72
+9,Pierre Santos,FC Northgate,GK,2021-22,20,Dutch,5,385,0,0,1,1,1123,59.6,1,4,9,0,13,7.09
+9,Pierre Santos,FC Northgate,GK,2022-23,21,Dutch,29,2088,0,1,2,1,847,73.6,0,3,3,0,9,7.6
+9,Pierre Santos,FC Northgate,GK,2023-24,22,Dutch,23,1679,0,1,0,0,840,77.1,2,6,0,2,10,7.24
+10,Henrik Andersen,Riverside United,DEF,2021-22,18,Belgian,13,1105,2,0,10,6,822,85.9,24,15,11,1,2,7.15
+10,Henrik Andersen,Riverside United,DEF,2022-23,19,Belgian,22,1914,3,0,3,3,706,80.8,47,26,7,0,5,7.22
+10,Henrik Andersen,Riverside United,DEF,2023-24,20,Belgian,13,871,2,2,7,5,904,76.4,39,32,9,1,0,5.61
+11,Emre Petrov,Eastbrook City,MID,2021-22,24,Senegalese,14,1190,2,9,27,16,1018,88.6,24,23,6,1,0,6.32
+11,Emre Petrov,Eastbrook City,MID,2022-23,25,Senegalese,31,2542,1,5,38,26,524,84.0,17,18,2,2,0,7.54
+11,Emre Petrov,Eastbrook City,MID,2023-24,26,Senegalese,17,1054,3,2,23,14,762,83.6,28,23,6,0,0,7.65
+12,Rafael Silva,West Hollow FC,FWD,2021-22,31,Nigerian,13,1027,21,7,58,27,1190,84.4,8,6,1,0,0,7.07
+12,Rafael Silva,West Hollow FC,FWD,2022-23,32,Nigerian,18,1422,16,2,36,19,577,71.7,7,13,1,0,0,7.08
+12,Rafael Silva,West Hollow FC,FWD,2023-24,33,Nigerian,24,1944,12,6,69,42,1013,68.3,8,15,11,1,1,6.87
+13,Diego García,Southport Athletic,GK,2021-22,28,Ghanaian,9,783,0,0,0,0,630,76.0,4,4,0,0,9,6.55
+13,Diego García,Southport Athletic,GK,2022-23,29,Ghanaian,29,2001,0,0,0,0,1073,77.4,1,0,6,1,5,8.74
+13,Diego García,Southport Athletic,GK,2023-24,30,Ghanaian,19,1577,0,0,0,0,820,71.5,4,4,5,0,4,7.52
+14,Oliver Ahmed,Valley Rangers,DEF,2021-22,28,Moroccan,35,3115,0,0,9,3,1081,75.3,55,26,0,1,9,6.51
+14,Oliver Ahmed,Valley Rangers,DEF,2022-23,29,Moroccan,15,975,1,3,1,1,692,84.9,16,19,3,0,2,7.0
+14,Oliver Ahmed,Valley Rangers,DEF,2023-24,30,Moroccan,23,1817,1,2,6,3,941,82.0,44,29,6,2,10,6.73
+15,Samuel Tanaka,Ironbridge Town,MID,2021-22,27,Japanese,19,1653,2,2,18,9,697,77.6,24,17,7,1,0,7.52
+15,Samuel Tanaka,Ironbridge Town,MID,2022-23,28,Japanese,15,975,4,3,35,15,510,81.7,27,10,6,1,0,7.87
+15,Samuel Tanaka,Ironbridge Town,MID,2023-24,29,Japanese,34,2516,4,7,6,4,741,76.6,31,27,9,1,0,6.99
+16,Theo Martínez,Crestwood FC,FWD,2021-22,28,English,18,1602,7,6,87,52,715,65.7,2,3,11,1,1,6.99
+16,Theo Martínez,Crestwood FC,FWD,2022-23,29,English,15,1335,17,3,79,41,673,76.7,12,7,0,1,1,5.97
+16,Theo Martínez,Crestwood FC,FWD,2023-24,30,English,35,2800,5,7,48,29,943,75.2,5,11,2,2,0,7.02
+17,Victor Nkosi,FC Northgate,GK,2021-22,24,Spanish,13,1040,0,0,1,1,592,57.5,5,8,10,0,0,6.55
+17,Victor Nkosi,FC Northgate,GK,2022-23,25,Spanish,8,544,0,0,2,1,501,76.2,6,3,9,1,6,7.29
+17,Victor Nkosi,FC Northgate,GK,2023-24,26,Spanish,11,979,0,0,1,1,1170,71.0,5,1,4,0,8,6.1
+18,Noel Nakamura,Riverside United,DEF,2021-22,18,French,36,2844,4,1,4,4,620,75.9,39,11,6,0,5,6.38
+18,Noel Nakamura,Riverside United,DEF,2022-23,19,French,37,3034,4,3,4,4,967,80.1,64,28,3,2,3,7.45
+18,Noel Nakamura,Riverside United,DEF,2023-24,20,French,33,2442,5,1,5,5,958,87.0,35,22,9,1,3,7.56
+19,Jordan Müller,Eastbrook City,MID,2021-22,29,German,35,3080,2,3,7,2,617,81.0,34,14,10,0,1,7.64
+19,Jordan Müller,Eastbrook City,MID,2022-23,30,German,34,2720,1,8,28,13,797,85.5,17,15,1,1,0,5.55
+19,Jordan Müller,Eastbrook City,MID,2023-24,31,German,18,1296,4,2,29,12,344,74.5,18,24,8,0,2,5.89
+20,Leon Rossi,West Hollow FC,FWD,2021-22,23,Brazilian,21,1533,17,5,68,24,856,74.8,12,8,1,0,0,7.6
+20,Leon Rossi,West Hollow FC,FWD,2022-23,24,Brazilian,7,539,8,0,61,39,1160,76.6,6,1,3,0,0,5.99
+20,Leon Rossi,West Hollow FC,FWD,2023-24,25,Brazilian,36,2808,25,10,46,25,928,76.2,14,8,7,0,1,7.07
+21,James Okafor,Southport Athletic,GK,2021-22,24,Argentine,29,2030,0,0,0,0,1146,80.2,3,6,2,0,8,5.93
+21,James Okafor,Southport Athletic,GK,2022-23,25,Argentine,6,390,0,0,1,0,1160,77.4,2,3,1,2,6,5.93
+21,James Okafor,Southport Athletic,GK,2023-24,26,Argentine,11,748,0,0,2,1,443,71.3,4,5,10,2,7,6.12
+22,Carlos Kovač,Valley Rangers,DEF,2021-22,22,Portuguese,11,836,3,3,9,5,774,70.5,37,27,11,0,2,7.0
+22,Carlos Kovač,Valley Rangers,DEF,2022-23,23,Portuguese,19,1368,1,3,4,2,855,71.2,35,37,11,2,5,5.87
+22,Carlos Kovač,Valley Rangers,DEF,2023-24,24,Portuguese,16,1184,0,2,5,3,1043,62.0,44,37,5,0,3,6.2
+23,Marco Ibarra,Ironbridge Town,MID,2021-22,19,Italian,33,2739,4,12,48,15,1181,82.2,39,14,7,1,1,9.34
+23,Marco Ibarra,Ironbridge Town,MID,2022-23,20,Italian,23,1771,2,10,26,13,982,82.2,27,15,3,0,1,5.25
+23,Marco Ibarra,Ironbridge Town,MID,2023-24,21,Italian,5,440,1,0,29,19,661,86.2,14,13,0,1,1,7.02
+24,Luca Blake,Crestwood FC,FWD,2021-22,30,Dutch,5,370,18,5,32,18,798,72.9,7,5,9,2,1,5.91
+24,Luca Blake,Crestwood FC,FWD,2022-23,31,Dutch,16,1408,7,6,79,41,300,65.5,4,3,6,0,0,6.55
+24,Luca Blake,Crestwood FC,FWD,2023-24,32,Dutch,8,680,10,2,67,30,878,74.5,7,11,7,2,2,6.62
+25,André Williams,FC Northgate,GK,2021-22,28,Belgian,28,1764,0,0,0,0,911,68.3,4,5,6,2,3,7.22
+25,André Williams,FC Northgate,GK,2022-23,29,Belgian,28,1876,0,0,0,0,686,71.0,6,3,4,1,6,6.86
+25,André Williams,FC Northgate,GK,2023-24,30,Belgian,16,1008,0,1,3,1,918,65.1,2,5,4,0,8,7.51
+26,Yusuf Dupont,Riverside United,DEF,2021-22,26,Senegalese,35,2730,4,3,4,4,214,80.3,4,11,10,0,5,5.87
+26,Yusuf Dupont,Riverside United,DEF,2022-23,27,Senegalese,23,1403,5,1,12,7,882,87.7,41,17,3,1,4,5.71
+26,Yusuf Dupont,Riverside United,DEF,2023-24,28,Senegalese,14,952,1,4,5,2,779,79.3,46,17,4,2,7,6.47
+27,Kwame Ferreira,Eastbrook City,MID,2021-22,23,Nigerian,26,2002,7,8,15,7,947,83.9,30,7,3,2,1,6.41
+27,Kwame Ferreira,Eastbrook City,MID,2022-23,24,Nigerian,10,690,11,13,43,20,871,85.8,26,16,3,1,1,6.22
+27,Kwame Ferreira,Eastbrook City,MID,2023-24,25,Nigerian,27,1944,8,6,33,19,725,85.8,28,8,9,0,0,5.48
+28,Tomás Mensah,West Hollow FC,FWD,2021-22,29,Ghanaian,29,1943,8,5,56,20,924,75.7,10,7,11,1,0,6.51
+28,Tomás Mensah,West Hollow FC,FWD,2022-23,30,Ghanaian,24,1872,14,5,76,52,841,71.5,10,3,8,2,1,6.35
+28,Tomás Mensah,West Hollow FC,FWD,2023-24,31,Ghanaian,10,880,18,1,75,37,820,70.2,4,3,11,2,0,7.15
+29,Pierre Santos,Southport Athletic,GK,2021-22,25,Moroccan,5,410,0,0,3,1,1094,72.9,3,3,5,1,6,7.96
+29,Pierre Santos,Southport Athletic,GK,2022-23,26,Moroccan,26,2184,1,0,1,1,891,80.7,2,3,7,0,6,5.53
+29,Pierre Santos,Southport Athletic,GK,2023-24,27,Moroccan,14,910,0,1,4,3,1087,73.5,2,4,2,0,7,6.47
+30,Henrik Andersen,Valley Rangers,DEF,2021-22,23,Japanese,19,1197,0,3,4,2,802,82.8,42,20,0,2,4,8.06
+30,Henrik Andersen,Valley Rangers,DEF,2022-23,24,Japanese,27,2187,4,4,8,4,920,81.1,29,31,8,2,2,7.84
+30,Henrik Andersen,Valley Rangers,DEF,2023-24,25,Japanese,18,1242,5,1,5,5,820,78.5,51,22,3,1,1,7.16
+31,Emre Petrov,Ironbridge Town,MID,2021-22,23,English,12,720,2,5,28,16,1154,81.5,23,2,3,2,1,6.25
+31,Emre Petrov,Ironbridge Town,MID,2022-23,24,English,6,372,4,11,31,19,782,82.0,39,1,4,0,0,6.81
+31,Emre Petrov,Ironbridge Town,MID,2023-24,25,English,36,2268,7,4,40,25,837,86.8,27,12,2,1,1,6.8
+32,Rafael Silva,Crestwood FC,FWD,2021-22,20,Spanish,36,3204,0,0,42,24,749,66.5,3,2,4,2,2,6.47
+32,Rafael Silva,Crestwood FC,FWD,2022-23,21,Spanish,22,1342,7,0,58,27,783,66.0,4,6,9,0,0,5.74
+32,Rafael Silva,Crestwood FC,FWD,2023-24,22,Spanish,19,1444,9,8,60,23,737,75.8,11,4,1,1,1,6.59
+33,Diego García,FC Northgate,GK,2021-22,18,French,20,1220,2,2,2,2,1097,65.7,0,2,6,0,7,6.28
+33,Diego García,FC Northgate,GK,2022-23,19,French,10,690,0,0,3,1,977,69.1,2,2,8,0,1,5.35
+33,Diego García,FC Northgate,GK,2023-24,20,French,20,1560,0,1,1,1,882,76.7,0,4,0,0,5,7.25
+34,Oliver Ahmed,Riverside United,DEF,2021-22,25,German,35,2940,1,0,1,1,343,78.5,43,19,5,0,6,7.29
+34,Oliver Ahmed,Riverside United,DEF,2022-23,26,German,37,2331,5,0,10,5,1009,78.4,36,11,8,1,0,7.57
+34,Oliver Ahmed,Riverside United,DEF,2023-24,27,German,36,2772,0,3,3,1,955,77.8,57,21,6,2,4,7.44
+35,Samuel Tanaka,Eastbrook City,MID,2021-22,30,Brazilian,30,2280,5,6,22,15,930,85.0,37,24,10,1,1,6.3
+35,Samuel Tanaka,Eastbrook City,MID,2022-23,31,Brazilian,37,2220,3,12,34,11,1039,71.1,9,20,5,0,1,5.74
+35,Samuel Tanaka,Eastbrook City,MID,2023-24,32,Brazilian,34,2924,13,9,32,13,721,71.4,27,20,0,2,0,5.87
+36,Theo Martínez,West Hollow FC,FWD,2021-22,17,Argentine,35,2695,14,0,69,34,750,61.6,3,10,11,1,0,5.86
+36,Theo Martínez,West Hollow FC,FWD,2022-23,18,Argentine,34,2822,10,7,68,44,759,75.9,1,10,6,0,0,6.78
+36,Theo Martínez,West Hollow FC,FWD,2023-24,19,Argentine,31,2418,15,9,64,25,775,77.7,0,1,6,2,0,7.13
+37,Victor Nkosi,Southport Athletic,GK,2021-22,29,Portuguese,18,1602,0,1,4,2,640,74.6,3,2,4,2,16,7.06
+37,Victor Nkosi,Southport Athletic,GK,2022-23,30,Portuguese,11,891,1,0,1,1,542,74.1,6,4,8,1,5,6.47
+37,Victor Nkosi,Southport Athletic,GK,2023-24,31,Portuguese,28,1988,0,1,0,0,724,74.3,0,6,8,2,11,5.59
+38,Noel Nakamura,Valley Rangers,DEF,2021-22,29,Italian,9,801,3,0,5,3,911,79.1,43,37,5,2,0,6.55
+38,Noel Nakamura,Valley Rangers,DEF,2022-23,30,Italian,33,2343,0,2,9,3,867,72.5,33,37,1,0,5,5.3
+38,Noel Nakamura,Valley Rangers,DEF,2023-24,31,Italian,14,1246,3,2,7,5,1037,76.1,38,21,1,0,6,7.0
+39,Jordan Müller,Ironbridge Town,MID,2021-22,21,Dutch,13,988,5,8,26,14,486,88.3,36,10,5,0,2,7.58
+39,Jordan Müller,Ironbridge Town,MID,2022-23,22,Dutch,33,2343,4,5,34,15,836,77.4,32,21,9,2,2,6.58
+39,Jordan Müller,Ironbridge Town,MID,2023-24,23,Dutch,30,1950,2,0,32,16,712,67.2,15,22,11,1,1,5.69
+40,Leon Rossi,Crestwood FC,FWD,2021-22,26,Belgian,12,792,13,6,95,46,739,71.0,6,7,8,1,0,7.97
+40,Leon Rossi,Crestwood FC,FWD,2022-23,27,Belgian,20,1580,28,5,87,49,993,70.4,4,7,7,2,0,5.77
+40,Leon Rossi,Crestwood FC,FWD,2023-24,28,Belgian,21,1533,5,0,62,24,797,62.7,7,4,6,0,0,6.49
+41,James Okafor,FC Northgate,GK,2021-22,19,Senegalese,14,910,0,1,1,1,956,67.1,4,0,9,0,8,6.31
+41,James Okafor,FC Northgate,GK,2022-23,20,Senegalese,17,1071,0,0,1,0,865,65.1,3,1,5,2,5,7.86
+41,James Okafor,FC Northgate,GK,2023-24,21,Senegalese,10,650,0,0,0,0,1200,72.8,2,4,8,0,0,5.45
+42,Carlos Kovač,Riverside United,DEF,2021-22,28,Nigerian,22,1804,1,5,4,3,546,61.5,38,23,6,2,7,7.76
+42,Carlos Kovač,Riverside United,DEF,2022-23,29,Nigerian,28,1680,0,3,7,4,996,71.0,60,17,2,2,0,6.06
+42,Carlos Kovač,Riverside United,DEF,2023-24,30,Nigerian,27,2322,1,4,6,2,1073,76.6,22,19,7,0,5,5.55
+43,Marco Ibarra,Eastbrook City,MID,2021-22,27,Ghanaian,29,1769,3,5,16,9,654,85.9,31,14,11,2,1,6.15
+43,Marco Ibarra,Eastbrook City,MID,2022-23,28,Ghanaian,37,3108,1,3,18,7,946,74.1,25,14,7,2,1,5.64
+43,Marco Ibarra,Eastbrook City,MID,2023-24,29,Ghanaian,32,2112,5,10,8,5,1038,81.2,29,11,1,1,0,5.0
+44,Luca Blake,West Hollow FC,FWD,2021-22,22,Moroccan,12,780,8,3,39,25,765,70.4,10,7,7,1,0,8.06
+44,Luca Blake,West Hollow FC,FWD,2022-23,23,Moroccan,37,2997,14,10,79,30,738,80.8,11,6,2,2,0,7.03
+44,Luca Blake,West Hollow FC,FWD,2023-24,24,Moroccan,24,1632,14,5,50,23,1383,65.1,10,2,1,0,0,7.41
+45,André Williams,Southport Athletic,GK,2021-22,18,Japanese,10,660,0,1,0,0,875,78.5,0,1,6,2,7,7.03
+45,André Williams,Southport Athletic,GK,2022-23,19,Japanese,10,880,0,1,1,1,506,75.0,0,4,11,0,7,6.7
+45,André Williams,Southport Athletic,GK,2023-24,20,Japanese,21,1617,0,0,0,0,907,69.7,2,0,4,2,0,7.4
+46,Yusuf Dupont,Valley Rangers,DEF,2021-22,31,English,31,2697,7,0,7,7,1038,73.8,42,25,1,0,2,6.73
+46,Yusuf Dupont,Valley Rangers,DEF,2022-23,32,English,25,2225,2,3,4,2,998,80.2,33,23,5,0,1,6.37
+46,Yusuf Dupont,Valley Rangers,DEF,2023-24,33,English,24,1776,1,3,3,1,772,83.2,35,12,6,2,2,5.8
+47,Kwame Ferreira,Ironbridge Town,MID,2021-22,23,Spanish,23,1725,3,15,13,4,574,79.5,26,1,11,1,3,6.44
+47,Kwame Ferreira,Ironbridge Town,MID,2022-23,24,Spanish,7,553,9,5,24,11,928,81.4,17,16,8,2,0,7.29
+47,Kwame Ferreira,Ironbridge Town,MID,2023-24,25,Spanish,14,924,9,0,23,16,1025,82.5,17,12,1,2,1,6.73
+48,Tomás Mensah,Crestwood FC,FWD,2021-22,30,French,15,1185,13,0,52,23,526,73.1,4,5,5,0,1,7.21
+48,Tomás Mensah,Crestwood FC,FWD,2022-23,31,French,27,1863,18,2,51,31,702,78.5,4,3,1,0,0,7.68
+48,Tomás Mensah,Crestwood FC,FWD,2023-24,32,French,16,1216,24,14,45,24,565,70.1,5,1,9,1,0,5.83
+49,Pierre Santos,FC Northgate,GK,2021-22,27,German,37,2442,0,3,1,1,541,82.2,4,4,11,1,8,5.9
+49,Pierre Santos,FC Northgate,GK,2022-23,28,German,37,3034,1,0,1,1,938,79.3,4,0,7,0,11,5.47
+49,Pierre Santos,FC Northgate,GK,2023-24,29,German,24,1440,0,0,0,0,735,71.1,1,2,4,1,9,6.56
+50,Henrik Andersen,Riverside United,DEF,2021-22,28,Brazilian,15,1080,2,0,6,3,808,83.8,20,9,8,0,4,6.94
+50,Henrik Andersen,Riverside United,DEF,2022-23,29,Brazilian,26,2002,3,4,6,3,378,82.6,52,30,8,2,6,7.49
+50,Henrik Andersen,Riverside United,DEF,2023-24,30,Brazilian,12,1068,0,2,7,3,577,80.5,46,26,6,1,3,7.98
+51,Emre Petrov,Eastbrook City,MID,2021-22,28,Argentine,31,2170,3,6,39,25,538,71.8,25,8,2,0,2,6.29
+51,Emre Petrov,Eastbrook City,MID,2022-23,29,Argentine,13,1027,4,9,35,19,766,87.2,28,7,2,1,0,7.93
+51,Emre Petrov,Eastbrook City,MID,2023-24,30,Argentine,19,1596,6,7,28,19,726,83.2,32,12,1,2,0,5.95
+52,Rafael Silva,West Hollow FC,FWD,2021-22,19,Portuguese,33,2442,18,12,81,32,945,81.1,6,5,3,1,0,5.95
+52,Rafael Silva,West Hollow FC,FWD,2022-23,20,Portuguese,25,2075,5,7,75,37,573,63.2,7,3,6,1,0,6.44
+52,Rafael Silva,West Hollow FC,FWD,2023-24,21,Portuguese,9,756,11,9,69,21,924,68.2,8,6,8,2,0,6.18
+53,Diego García,Southport Athletic,GK,2021-22,22,Italian,11,836,1,0,2,1,677,78.2,1,0,8,0,11,5.26
+53,Diego García,Southport Athletic,GK,2022-23,23,Italian,22,1628,0,0,0,0,973,76.4,0,2,7,2,12,5.72
+53,Diego García,Southport Athletic,GK,2023-24,24,Italian,36,3060,0,0,0,0,545,72.6,0,0,6,0,0,6.2
+54,Oliver Ahmed,Valley Rangers,DEF,2021-22,24,Dutch,33,2310,0,6,5,2,445,74.1,42,17,0,1,0,6.57
+54,Oliver Ahmed,Valley Rangers,DEF,2022-23,25,Dutch,11,693,2,1,4,2,653,80.9,42,24,2,1,6,6.61
+54,Oliver Ahmed,Valley Rangers,DEF,2023-24,26,Dutch,13,884,2,5,2,2,421,79.3,56,29,3,1,2,6.82
+55,Samuel Tanaka,Ironbridge Town,MID,2021-22,24,Belgian,32,2400,2,5,32,14,639,75.2,28,18,3,0,2,6.87
+55,Samuel Tanaka,Ironbridge Town,MID,2022-23,25,Belgian,34,2312,6,6,25,17,710,78.7,28,17,9,1,2,6.72
+55,Samuel Tanaka,Ironbridge Town,MID,2023-24,26,Belgian,7,511,10,9,17,12,932,81.9,38,16,9,1,0,7.27
+56,Theo Martínez,Crestwood FC,FWD,2021-22,17,Senegalese,5,435,14,2,62,31,533,66.6,11,0,10,1,0,7.85
+56,Theo Martínez,Crestwood FC,FWD,2022-23,18,Senegalese,12,780,18,3,62,24,707,79.0,3,6,6,1,1,8.33
+56,Theo Martínez,Crestwood FC,FWD,2023-24,19,Senegalese,20,1460,6,1,70,27,820,68.4,12,0,6,0,3,7.09
+57,Victor Nkosi,FC Northgate,GK,2021-22,25,Nigerian,14,1176,0,0,0,0,511,82.3,3,4,9,1,6,7.57
+57,Victor Nkosi,FC Northgate,GK,2022-23,26,Nigerian,16,960,1,0,1,1,404,70.4,2,0,10,1,7,5.08
+57,Victor Nkosi,FC Northgate,GK,2023-24,27,Nigerian,16,1104,0,0,0,0,1004,76.7,2,2,11,0,9,6.96
+58,Noel Nakamura,Riverside United,DEF,2021-22,19,Ghanaian,29,2465,2,4,5,3,974,73.2,22,37,5,2,0,6.23
+58,Noel Nakamura,Riverside United,DEF,2022-23,20,Ghanaian,9,549,1,1,9,6,640,79.3,44,29,7,1,5,7.19
+58,Noel Nakamura,Riverside United,DEF,2023-24,21,Ghanaian,33,2376,2,2,6,3,911,78.3,32,26,4,1,5,8.57
+59,Jordan Müller,Eastbrook City,MID,2021-22,28,Moroccan,25,1900,7,10,31,21,724,83.6,19,13,11,1,2,7.06
+59,Jordan Müller,Eastbrook City,MID,2022-23,29,Moroccan,15,1155,5,5,57,30,656,78.5,17,21,0,0,1,6.75
+59,Jordan Müller,Eastbrook City,MID,2023-24,30,Moroccan,7,553,2,2,32,12,867,78.0,30,11,5,0,0,7.84
+60,Leon Rossi,West Hollow FC,FWD,2021-22,27,Japanese,13,962,18,10,102,69,652,70.9,4,1,8,1,0,7.07
+60,Leon Rossi,West Hollow FC,FWD,2022-23,28,Japanese,33,2211,17,7,69,39,1224,75.2,0,1,10,2,0,6.7
+60,Leon Rossi,West Hollow FC,FWD,2023-24,29,Japanese,33,2277,26,7,71,26,600,74.2,9,0,8,0,0,6.63
+61,James Okafor,Southport Athletic,GK,2021-22,30,English,13,910,0,0,1,1,1016,70.2,1,4,4,0,5,7.43
+61,James Okafor,Southport Athletic,GK,2022-23,31,English,22,1958,1,2,1,1,802,71.4,1,0,7,1,4,6.87
+61,James Okafor,Southport Athletic,GK,2023-24,32,English,24,2040,0,0,1,0,1237,73.7,3,1,10,1,13,6.06
+62,Carlos Kovač,Valley Rangers,DEF,2021-22,28,Spanish,27,1674,2,2,2,2,1046,73.2,26,33,7,0,2,5.53
+62,Carlos Kovač,Valley Rangers,DEF,2022-23,29,Spanish,25,1525,2,4,2,2,935,63.7,50,16,9,1,5,7.67
+62,Carlos Kovač,Valley Rangers,DEF,2023-24,30,Spanish,25,2150,0,0,5,2,896,82.7,46,23,9,1,3,7.13
+63,Marco Ibarra,Ironbridge Town,MID,2021-22,22,French,36,2232,8,10,31,22,544,91.4,21,3,9,1,1,7.68
+63,Marco Ibarra,Ironbridge Town,MID,2022-23,23,French,15,960,7,7,37,17,994,74.1,29,22,6,2,1,7.73
+63,Marco Ibarra,Ironbridge Town,MID,2023-24,24,French,5,305,15,3,25,15,702,77.5,3,12,9,1,1,8.35
+64,Luca Blake,Crestwood FC,FWD,2021-22,31,German,5,375,22,6,72,23,1074,74.3,10,6,9,0,0,8.59
+64,Luca Blake,Crestwood FC,FWD,2022-23,32,German,16,1200,17,10,77,31,323,76.6,0,11,6,0,1,6.08
+64,Luca Blake,Crestwood FC,FWD,2023-24,33,German,8,536,16,5,53,32,1353,78.2,13,8,10,1,0,5.16
+65,André Williams,FC Northgate,GK,2021-22,23,Brazilian,23,1380,1,0,1,1,1100,76.5,3,4,8,2,8,5.85
+65,André Williams,FC Northgate,GK,2022-23,24,Brazilian,11,737,0,0,2,1,1114,66.0,1,4,11,1,13,7.7
+65,André Williams,FC Northgate,GK,2023-24,25,Brazilian,37,2775,0,1,0,0,777,81.6,1,0,1,0,4,6.83
+66,Yusuf Dupont,Riverside United,DEF,2021-22,21,Argentine,13,1066,1,4,1,1,937,74.3,24,30,4,1,4,5.23
+66,Yusuf Dupont,Riverside United,DEF,2022-23,22,Argentine,21,1344,0,3,2,1,712,76.9,34,30,4,1,7,7.02
+66,Yusuf Dupont,Riverside United,DEF,2023-24,23,Argentine,14,1162,0,0,6,3,326,74.8,31,38,2,0,0,7.69
+67,Kwame Ferreira,Eastbrook City,MID,2021-22,30,Portuguese,17,1309,2,3,36,23,428,80.6,37,12,9,0,2,8.49
+67,Kwame Ferreira,Eastbrook City,MID,2022-23,31,Portuguese,35,3080,5,13,15,7,596,82.5,23,9,6,0,0,6.01
+67,Kwame Ferreira,Eastbrook City,MID,2023-24,32,Portuguese,11,792,9,5,31,16,606,85.7,32,31,2,0,1,7.42
+68,Tomás Mensah,West Hollow FC,FWD,2021-22,22,Italian,21,1764,11,3,68,46,718,74.4,13,3,10,0,0,5.79
+68,Tomás Mensah,West Hollow FC,FWD,2022-23,23,Italian,15,1275,13,0,49,19,712,80.6,11,5,3,2,0,7.06
+68,Tomás Mensah,West Hollow FC,FWD,2023-24,24,Italian,6,522,9,5,30,17,952,72.6,17,1,2,2,0,6.72
+69,Pierre Santos,Southport Athletic,GK,2021-22,18,Dutch,31,2325,0,1,2,1,846,72.0,4,2,7,0,4,7.67
+69,Pierre Santos,Southport Athletic,GK,2022-23,19,Dutch,13,962,0,0,0,0,911,73.5,4,4,9,1,11,8.02
+69,Pierre Santos,Southport Athletic,GK,2023-24,20,Dutch,13,975,1,0,1,1,843,76.8,2,2,7,2,13,7.24
+70,Henrik Andersen,Valley Rangers,DEF,2021-22,24,Belgian,10,780,2,6,4,3,1179,82.1,39,22,10,1,2,7.72
+70,Henrik Andersen,Valley Rangers,DEF,2022-23,25,Belgian,7,504,2,2,4,2,626,72.8,24,30,11,2,5,7.13
+70,Henrik Andersen,Valley Rangers,DEF,2023-24,26,Belgian,32,2560,4,2,4,4,1204,67.6,45,12,3,2,3,5.13
+71,Emre Petrov,Ironbridge Town,MID,2021-22,28,Senegalese,15,1245,3,0,38,24,1098,83.8,25,23,4,0,2,6.05
+71,Emre Petrov,Ironbridge Town,MID,2022-23,29,Senegalese,9,648,7,0,35,14,928,89.4,26,15,8,1,0,6.03
+71,Emre Petrov,Ironbridge Town,MID,2023-24,30,Senegalese,25,1650,10,2,40,24,868,84.3,33,15,4,2,1,7.3
+72,Rafael Silva,Crestwood FC,FWD,2021-22,19,Nigerian,10,850,27,7,71,42,635,80.2,9,0,6,0,0,7.93
+72,Rafael Silva,Crestwood FC,FWD,2022-23,20,Nigerian,27,1917,15,10,47,29,761,78.1,1,0,3,1,0,6.49
+72,Rafael Silva,Crestwood FC,FWD,2023-24,21,Nigerian,21,1554,10,5,74,46,1131,70.6,5,11,3,0,0,6.68
+73,Diego García,FC Northgate,GK,2021-22,23,Ghanaian,30,2460,1,0,1,1,603,71.7,2,5,5,2,10,7.77
+73,Diego García,FC Northgate,GK,2022-23,24,Ghanaian,22,1320,0,1,0,0,782,66.2,0,6,6,2,14,6.39
+73,Diego García,FC Northgate,GK,2023-24,25,Ghanaian,23,1817,2,0,2,2,635,71.9,1,4,5,1,6,7.16
+74,Oliver Ahmed,Riverside United,DEF,2021-22,18,Moroccan,13,910,1,1,1,1,824,75.6,37,25,8,0,6,7.95
+74,Oliver Ahmed,Riverside United,DEF,2022-23,19,Moroccan,23,1564,3,2,6,3,902,67.4,45,35,2,2,7,6.25
+74,Oliver Ahmed,Riverside United,DEF,2023-24,20,Moroccan,10,660,2,0,4,2,418,70.3,30,24,4,2,8,7.56
+75,Samuel Tanaka,Eastbrook City,MID,2021-22,27,Japanese,22,1760,6,8,21,7,578,86.2,34,16,1,2,1,5.0
+75,Samuel Tanaka,Eastbrook City,MID,2022-23,28,Japanese,14,896,5,6,37,22,572,81.3,26,16,6,0,2,5.93
+75,Samuel Tanaka,Eastbrook City,MID,2023-24,29,Japanese,8,632,10,0,32,18,726,77.5,24,26,8,0,0,5.76
+76,Theo Martínez,West Hollow FC,FWD,2021-22,24,English,31,2635,11,5,54,31,753,86.3,15,2,5,1,0,5.38
+76,Theo Martínez,West Hollow FC,FWD,2022-23,25,English,26,1794,21,9,53,21,950,76.0,6,0,6,0,1,5.84
+76,Theo Martínez,West Hollow FC,FWD,2023-24,26,English,8,696,16,8,73,50,477,71.3,12,3,9,2,0,8.2
+77,Victor Nkosi,Southport Athletic,GK,2021-22,21,Spanish,33,2409,1,1,2,1,767,69.4,7,4,2,2,9,5.99
+77,Victor Nkosi,Southport Athletic,GK,2022-23,22,Spanish,30,2010,0,1,2,1,819,72.1,2,2,3,2,13,6.71
+77,Victor Nkosi,Southport Athletic,GK,2023-24,23,Spanish,14,1232,0,1,2,1,748,75.4,1,2,10,0,10,6.01
+78,Noel Nakamura,Valley Rangers,DEF,2021-22,20,French,14,1218,2,5,2,2,525,74.2,36,22,3,1,4,6.37
+78,Noel Nakamura,Valley Rangers,DEF,2022-23,21,French,11,682,4,4,8,4,860,82.1,30,25,2,0,10,8.34
+78,Noel Nakamura,Valley Rangers,DEF,2023-24,22,French,26,2028,7,0,8,7,601,81.0,39,29,3,0,8,6.86
+79,Jordan Müller,Ironbridge Town,MID,2021-22,25,German,27,2133,9,8,37,20,591,79.2,20,20,1,1,1,7.94
+79,Jordan Müller,Ironbridge Town,MID,2022-23,26,German,13,1105,6,3,46,14,825,80.3,18,6,3,2,0,9.25
+79,Jordan Müller,Ironbridge Town,MID,2023-24,27,German,16,1280,0,8,45,29,914,72.8,20,9,10,0,1,5.01
+80,Leon Rossi,Crestwood FC,FWD,2021-22,27,Brazilian,32,2112,11,2,66,31,979,77.8,14,5,11,0,1,6.91
+80,Leon Rossi,Crestwood FC,FWD,2022-23,28,Brazilian,20,1740,12,2,66,20,667,70.7,2,9,1,0,0,7.45
+80,Leon Rossi,Crestwood FC,FWD,2023-24,29,Brazilian,32,2176,6,9,52,29,808,79.7,8,0,2,1,0,8.31
+81,James Okafor,FC Northgate,GK,2021-22,31,Argentine,25,2150,0,0,3,2,1166,65.9,4,2,11,0,2,6.28
+81,James Okafor,FC Northgate,GK,2022-23,32,Argentine,35,2940,1,1,1,1,738,67.5,4,5,7,2,4,5.0
+81,James Okafor,FC Northgate,GK,2023-24,33,Argentine,14,1148,1,0,1,1,1053,72.1,1,3,5,2,13,7.14
+82,Carlos Kovač,Riverside United,DEF,2021-22,23,Portuguese,33,2673,4,0,7,4,734,62.9,19,17,2,0,4,6.95
+82,Carlos Kovač,Riverside United,DEF,2022-23,24,Portuguese,33,2805,0,2,6,2,806,68.4,54,20,8,1,4,7.62
+82,Carlos Kovač,Riverside United,DEF,2023-24,25,Portuguese,24,1896,2,1,5,2,643,77.2,34,43,2,2,9,6.64
+83,Marco Ibarra,Eastbrook City,MID,2021-22,19,Italian,5,415,0,4,32,12,844,88.9,30,25,1,2,3,6.41
+83,Marco Ibarra,Eastbrook City,MID,2022-23,20,Italian,35,2520,0,15,38,12,1050,85.4,41,6,0,2,1,5.22
+83,Marco Ibarra,Eastbrook City,MID,2023-24,21,Italian,7,546,4,9,54,30,716,82.6,33,12,5,1,2,7.1
+84,Luca Blake,West Hollow FC,FWD,2021-22,29,Dutch,17,1462,11,0,42,20,880,70.2,7,5,11,2,0,6.13
+84,Luca Blake,West Hollow FC,FWD,2022-23,30,Dutch,28,2296,13,7,42,23,1018,76.4,9,5,4,2,0,7.81
+84,Luca Blake,West Hollow FC,FWD,2023-24,31,Dutch,20,1560,9,3,63,26,897,76.6,12,11,0,0,0,6.08
+85,André Williams,Southport Athletic,GK,2021-22,26,Belgian,13,819,0,0,1,1,666,70.1,4,3,6,2,8,6.57
+85,André Williams,Southport Athletic,GK,2022-23,27,Belgian,6,426,0,0,3,1,972,73.2,0,5,1,2,4,6.79
+85,André Williams,Southport Athletic,GK,2023-24,28,Belgian,10,770,0,1,1,0,846,68.9,1,4,9,2,3,6.92
+86,Yusuf Dupont,Valley Rangers,DEF,2021-22,27,Senegalese,6,486,4,1,8,4,1165,71.2,53,20,2,2,6,5.99
+86,Yusuf Dupont,Valley Rangers,DEF,2022-23,28,Senegalese,16,976,4,4,5,4,952,78.8,27,18,0,0,8,8.09
+86,Yusuf Dupont,Valley Rangers,DEF,2023-24,29,Senegalese,9,765,3,3,3,3,635,70.5,43,26,3,1,6,6.99
+87,Kwame Ferreira,Ironbridge Town,MID,2021-22,18,Nigerian,23,2001,5,8,23,13,934,78.7,25,11,2,0,0,7.81
+87,Kwame Ferreira,Ironbridge Town,MID,2022-23,19,Nigerian,10,810,7,14,28,17,642,80.9,27,13,10,0,2,6.71
+87,Kwame Ferreira,Ironbridge Town,MID,2023-24,20,Nigerian,14,1120,6,7,21,8,773,79.0,19,31,1,1,0,6.24
+88,Tomás Mensah,Crestwood FC,FWD,2021-22,21,Ghanaian,5,315,17,7,70,30,868,69.6,5,1,1,0,1,7.35
+88,Tomás Mensah,Crestwood FC,FWD,2022-23,22,Ghanaian,14,1176,14,8,34,18,835,77.1,10,1,1,0,0,7.25
+88,Tomás Mensah,Crestwood FC,FWD,2023-24,23,Ghanaian,11,671,6,1,49,24,528,66.9,4,5,4,2,0,7.65
+89,Pierre Santos,FC Northgate,GK,2021-22,28,Moroccan,15,1155,0,1,1,1,1033,70.2,4,4,7,1,9,7.06
+89,Pierre Santos,FC Northgate,GK,2022-23,29,Moroccan,8,496,0,0,1,0,595,78.1,3,0,8,1,16,7.6
+89,Pierre Santos,FC Northgate,GK,2023-24,30,Moroccan,5,440,0,0,0,0,682,66.5,2,4,11,0,5,8.01
+90,Henrik Andersen,Riverside United,DEF,2021-22,29,Japanese,15,930,4,1,7,4,948,83.5,28,34,1,0,5,7.01
+90,Henrik Andersen,Riverside United,DEF,2022-23,30,Japanese,37,2701,3,0,3,3,837,84.9,40,14,0,2,3,7.07
+90,Henrik Andersen,Riverside United,DEF,2023-24,31,Japanese,7,469,5,0,5,5,582,80.0,56,21,4,0,0,6.77
+91,Emre Petrov,Eastbrook City,MID,2021-22,23,English,19,1520,2,10,27,12,725,72.4,16,21,2,1,0,6.48
+91,Emre Petrov,Eastbrook City,MID,2022-23,24,English,35,2590,8,4,43,19,1002,75.2,34,13,7,2,1,7.02
+91,Emre Petrov,Eastbrook City,MID,2023-24,25,English,17,1241,7,4,36,13,788,79.8,26,18,6,1,2,7.58
+92,Rafael Silva,West Hollow FC,FWD,2021-22,29,Spanish,9,765,17,7,71,41,711,71.5,11,4,10,0,1,7.49
+92,Rafael Silva,West Hollow FC,FWD,2022-23,30,Spanish,26,1560,10,10,72,25,737,74.8,12,9,5,1,1,6.85
+92,Rafael Silva,West Hollow FC,FWD,2023-24,31,Spanish,31,2604,12,5,59,20,721,74.3,7,4,5,0,0,5.5
+93,Diego García,Southport Athletic,GK,2021-22,29,French,7,581,1,2,2,1,754,73.5,2,4,8,0,7,7.14
+93,Diego García,Southport Athletic,GK,2022-23,30,French,19,1596,0,0,0,0,1052,68.9,0,3,5,0,0,6.97
+93,Diego García,Southport Athletic,GK,2023-24,31,French,30,1950,0,0,1,0,861,72.7,1,0,0,2,5,6.79
+94,Oliver Ahmed,Valley Rangers,DEF,2021-22,22,German,5,305,3,1,3,3,845,79.9,59,20,4,0,5,6.78
+94,Oliver Ahmed,Valley Rangers,DEF,2022-23,23,German,8,664,0,1,2,1,641,71.7,46,30,4,1,3,5.31
+94,Oliver Ahmed,Valley Rangers,DEF,2023-24,24,German,19,1653,3,4,3,3,497,70.5,47,38,9,0,4,5.04
+95,Samuel Tanaka,Ironbridge Town,MID,2021-22,30,Brazilian,22,1716,6,5,19,11,823,86.7,26,22,4,0,1,7.65
+95,Samuel Tanaka,Ironbridge Town,MID,2022-23,31,Brazilian,5,385,16,8,34,16,1175,86.0,12,23,5,2,1,5.78
+95,Samuel Tanaka,Ironbridge Town,MID,2023-24,32,Brazilian,33,2145,2,6,27,17,1196,82.2,26,13,8,0,1,6.46
+96,Theo Martínez,Crestwood FC,FWD,2021-22,21,Argentine,36,2664,11,5,36,13,1188,77.6,15,2,9,0,0,6.62
+96,Theo Martínez,Crestwood FC,FWD,2022-23,22,Argentine,29,2204,15,0,40,20,898,84.3,15,0,5,2,1,5.56
+96,Theo Martínez,Crestwood FC,FWD,2023-24,23,Argentine,9,675,21,7,40,27,372,72.9,14,5,0,2,1,7.58
+97,Victor Nkosi,FC Northgate,GK,2021-22,20,Portuguese,15,1260,1,1,2,1,818,70.6,0,1,3,0,8,7.95
+97,Victor Nkosi,FC Northgate,GK,2022-23,21,Portuguese,18,1206,1,1,1,1,751,79.9,3,1,11,1,14,6.66
+97,Victor Nkosi,FC Northgate,GK,2023-24,22,Portuguese,17,1156,1,0,2,1,675,78.5,3,2,8,0,7,6.81
+98,Noel Nakamura,Riverside United,DEF,2021-22,27,Italian,37,2442,1,2,4,2,616,87.4,44,14,6,1,4,8.05
+98,Noel Nakamura,Riverside United,DEF,2022-23,28,Italian,23,1840,5,3,6,5,988,76.0,49,18,4,2,5,6.68
+98,Noel Nakamura,Riverside United,DEF,2023-24,29,Italian,11,880,1,1,10,7,648,81.4,33,16,6,2,0,7.54
+99,Jordan Müller,Eastbrook City,MID,2021-22,26,Dutch,21,1596,4,8,36,13,944,82.6,15,14,3,0,3,7.37
+99,Jordan Müller,Eastbrook City,MID,2022-23,27,Dutch,36,2376,7,9,37,12,873,81.6,20,4,10,2,1,7.25
+99,Jordan Müller,Eastbrook City,MID,2023-24,28,Dutch,17,1139,8,14,31,14,862,92.2,17,16,0,1,0,6.76
+100,Leon Rossi,West Hollow FC,FWD,2021-22,19,Belgian,17,1173,25,7,54,32,714,71.1,0,11,9,0,2,5.69
+100,Leon Rossi,West Hollow FC,FWD,2022-23,20,Belgian,24,1872,14,8,35,14,957,73.8,11,2,7,0,0,5.32
+100,Leon Rossi,West Hollow FC,FWD,2023-24,21,Belgian,18,1386,21,2,65,28,866,70.9,4,9,2,2,2,6.84
+101,James Okafor,Southport Athletic,GK,2021-22,29,Senegalese,34,2890,1,1,2,1,669,71.2,2,0,1,1,12,6.99
+101,James Okafor,Southport Athletic,GK,2022-23,30,Senegalese,33,2904,0,2,1,1,745,63.1,5,2,8,2,7,7.94
+101,James Okafor,Southport Athletic,GK,2023-24,31,Senegalese,36,2988,1,1,2,1,753,83.5,0,3,10,2,9,6.46
+102,Carlos Kovač,Valley Rangers,DEF,2021-22,19,Nigerian,33,2046,2,0,5,2,453,78.8,45,29,2,0,0,5.71
+102,Carlos Kovač,Valley Rangers,DEF,2022-23,20,Nigerian,18,1116,0,3,3,2,673,81.4,41,21,4,2,5,5.83
+102,Carlos Kovač,Valley Rangers,DEF,2023-24,21,Nigerian,20,1660,7,5,7,7,412,70.1,53,19,5,0,4,5.95
+103,Marco Ibarra,Ironbridge Town,MID,2021-22,29,Ghanaian,11,968,5,2,23,9,904,80.8,24,19,1,1,1,7.18
+103,Marco Ibarra,Ironbridge Town,MID,2022-23,30,Ghanaian,26,1872,4,6,22,9,954,84.2,29,17,9,1,2,7.55
+103,Marco Ibarra,Ironbridge Town,MID,2023-24,31,Ghanaian,35,2695,5,12,32,15,856,83.2,19,19,9,2,1,6.86
+104,Luca Blake,Crestwood FC,FWD,2021-22,17,Moroccan,8,608,11,11,50,20,483,70.2,0,8,5,1,0,5.47
+104,Luca Blake,Crestwood FC,FWD,2022-23,18,Moroccan,14,952,10,10,56,35,764,77.8,7,3,0,1,0,5.78
+104,Luca Blake,Crestwood FC,FWD,2023-24,19,Moroccan,26,2106,3,3,71,29,918,73.7,14,9,4,2,1,7.4
+105,André Williams,FC Northgate,GK,2021-22,28,Japanese,19,1178,0,0,2,1,613,66.6,3,3,1,1,9,5.32
+105,André Williams,FC Northgate,GK,2022-23,29,Japanese,32,2112,1,2,1,1,809,82.7,1,2,4,2,6,7.38
+105,André Williams,FC Northgate,GK,2023-24,30,Japanese,34,2482,0,0,0,0,790,70.1,1,3,8,1,11,5.0
+106,Yusuf Dupont,Riverside United,DEF,2021-22,28,English,29,2001,2,2,6,2,739,74.8,38,34,1,2,4,6.95
+106,Yusuf Dupont,Riverside United,DEF,2022-23,29,English,27,2268,1,4,9,4,758,76.0,37,32,4,1,5,5.9
+106,Yusuf Dupont,Riverside United,DEF,2023-24,30,English,33,2838,6,2,6,6,856,81.5,39,22,7,1,0,6.73
+107,Kwame Ferreira,Eastbrook City,MID,2021-22,28,Spanish,28,1708,12,6,12,12,1348,86.3,19,19,9,0,0,6.52
+107,Kwame Ferreira,Eastbrook City,MID,2022-23,29,Spanish,12,1032,0,1,30,13,879,75.9,31,8,1,0,0,5.93
+107,Kwame Ferreira,Eastbrook City,MID,2023-24,30,Spanish,9,792,12,7,36,13,595,79.5,15,7,5,1,1,5.9
+108,Tomás Mensah,West Hollow FC,FWD,2021-22,26,French,7,448,6,6,53,20,865,80.2,4,5,8,1,0,6.59
+108,Tomás Mensah,West Hollow FC,FWD,2022-23,27,French,24,1752,7,0,25,8,925,66.0,1,12,10,2,0,7.31
+108,Tomás Mensah,West Hollow FC,FWD,2023-24,28,French,32,2208,5,4,36,17,481,68.8,3,0,11,2,2,6.42
+109,Pierre Santos,Southport Athletic,GK,2021-22,24,German,23,1495,0,0,1,1,844,74.4,3,2,5,1,10,6.81
+109,Pierre Santos,Southport Athletic,GK,2022-23,25,German,31,2263,1,0,1,1,589,76.5,3,5,5,1,8,7.76
+109,Pierre Santos,Southport Athletic,GK,2023-24,26,German,26,2262,0,1,1,1,632,76.2,4,3,0,2,0,6.76
+110,Henrik Andersen,Valley Rangers,DEF,2021-22,27,Brazilian,27,1728,1,7,5,2,805,66.0,32,33,2,1,2,7.85
+110,Henrik Andersen,Valley Rangers,DEF,2022-23,28,Brazilian,15,1275,3,1,4,3,601,71.7,34,17,2,0,5,6.99
+110,Henrik Andersen,Valley Rangers,DEF,2023-24,29,Brazilian,29,2320,1,3,6,3,949,82.7,43,23,5,1,0,6.16
+111,Emre Petrov,Ironbridge Town,MID,2021-22,21,Argentine,35,2555,1,8,42,18,857,76.8,23,11,1,0,0,7.61
+111,Emre Petrov,Ironbridge Town,MID,2022-23,22,Argentine,29,2378,2,1,33,14,855,93.2,36,13,5,0,1,6.13
+111,Emre Petrov,Ironbridge Town,MID,2023-24,23,Argentine,20,1380,6,7,37,22,834,81.4,37,21,10,2,1,6.96
+112,Rafael Silva,Crestwood FC,FWD,2021-22,28,Portuguese,15,1020,6,0,47,23,671,77.2,7,6,5,2,0,7.27
+112,Rafael Silva,Crestwood FC,FWD,2022-23,29,Portuguese,31,2294,10,6,93,51,661,73.1,8,4,1,1,0,6.03
+112,Rafael Silva,Crestwood FC,FWD,2023-24,30,Portuguese,10,830,13,3,57,26,978,73.5,10,3,9,1,0,7.49
+113,Diego García,FC Northgate,GK,2021-22,25,Italian,20,1480,1,0,1,1,670,68.2,2,4,6,2,7,6.72
+113,Diego García,FC Northgate,GK,2022-23,26,Italian,6,402,0,0,1,0,557,67.1,0,2,8,2,5,7.69
+113,Diego García,FC Northgate,GK,2023-24,27,Italian,23,2047,0,0,2,1,636,61.7,1,5,7,0,7,6.19
+114,Oliver Ahmed,Riverside United,DEF,2021-22,23,Dutch,36,2664,3,0,7,4,887,76.7,46,26,8,0,10,6.52
+114,Oliver Ahmed,Riverside United,DEF,2022-23,24,Dutch,7,588,0,5,9,5,912,81.4,34,29,9,2,2,7.7
+114,Oliver Ahmed,Riverside United,DEF,2023-24,25,Dutch,13,819,1,1,3,1,600,80.1,47,24,8,1,3,6.63
+115,Samuel Tanaka,Eastbrook City,MID,2021-22,24,Belgian,23,1978,9,3,33,13,589,79.0,36,16,8,0,1,6.68
+115,Samuel Tanaka,Eastbrook City,MID,2022-23,25,Belgian,31,2666,4,7,26,16,432,82.5,41,14,5,2,1,7.96
+115,Samuel Tanaka,Eastbrook City,MID,2023-24,26,Belgian,24,2016,2,3,24,12,1068,87.3,29,7,6,2,2,5.72
+116,Theo Martínez,West Hollow FC,FWD,2021-22,25,Senegalese,29,2494,16,0,45,23,901,79.3,11,5,6,2,0,6.2
+116,Theo Martínez,West Hollow FC,FWD,2022-23,26,Senegalese,28,2380,11,7,65,42,643,80.0,8,0,1,1,0,7.11
+116,Theo Martínez,West Hollow FC,FWD,2023-24,27,Senegalese,35,2240,12,2,92,50,964,76.9,3,10,6,2,0,5.49
+117,Victor Nkosi,Southport Athletic,GK,2021-22,17,Nigerian,10,770,0,0,0,0,1224,80.3,1,3,4,1,11,6.53
+117,Victor Nkosi,Southport Athletic,GK,2022-23,18,Nigerian,5,390,0,1,1,1,810,80.3,4,4,0,2,5,8.1
+117,Victor Nkosi,Southport Athletic,GK,2023-24,19,Nigerian,34,2584,3,0,3,3,879,83.7,1,5,11,0,10,6.03
+118,Noel Nakamura,Valley Rangers,DEF,2021-22,19,Ghanaian,33,2442,4,3,6,4,784,81.8,40,18,6,2,2,6.98
+118,Noel Nakamura,Valley Rangers,DEF,2022-23,20,Ghanaian,19,1634,2,3,3,2,746,75.4,45,10,10,2,7,5.41
+118,Noel Nakamura,Valley Rangers,DEF,2023-24,21,Ghanaian,25,2050,5,1,6,5,707,83.2,33,21,8,1,5,7.73
+119,Jordan Müller,Ironbridge Town,MID,2021-22,20,Moroccan,18,1350,0,2,34,20,879,80.1,31,14,9,0,0,7.93
+119,Jordan Müller,Ironbridge Town,MID,2022-23,21,Moroccan,8,680,8,4,26,15,657,78.6,24,17,2,1,0,6.11
+119,Jordan Müller,Ironbridge Town,MID,2023-24,22,Moroccan,25,1625,5,8,27,17,1136,81.1,21,22,10,1,0,6.81
+120,Leon Rossi,Crestwood FC,FWD,2021-22,18,Japanese,17,1462,16,13,65,39,865,74.2,8,6,3,0,0,7.29
+120,Leon Rossi,Crestwood FC,FWD,2022-23,19,Japanese,26,1690,8,17,49,22,501,74.6,3,3,11,0,0,7.25
+120,Leon Rossi,Crestwood FC,FWD,2023-24,20,Japanese,8,568,25,0,83,33,915,69.7,9,3,1,2,0,5.17
